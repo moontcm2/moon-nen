@@ -1,25 +1,25 @@
 {
- "lan_ghi_cuoi_utc": "2026-10-29 11:02",
+ "lan_ghi_cuoi_utc": "2026-10-29 12:02",
  "nguon": "Bybit v5 /v5/market/kline category=linear symbol=BTCUSDT",
  "cot": "t_ms,mo_utc,open,high,low,close,volume",
  "khung": {
   "H1": {
-   "nen_cuoi_mo_utc": "2026-10-29 10:00",
-   "t_ms": 1793268000000,
+   "nen_cuoi_mo_utc": "2026-10-29 11:00",
+   "t_ms": 1793271600000,
    "so_nen_moi": 1,
-   "close": "80259.3"
+   "close": "80122.7"
   },
   "H4": {
-   "nen_cuoi_mo_utc": "2026-10-29 04:00",
-   "t_ms": 1793246400000,
-   "so_nen_moi": 0,
-   "close": "79806.7"
+   "nen_cuoi_mo_utc": "2026-10-29 08:00",
+   "t_ms": 1793260800000,
+   "so_nen_moi": 1,
+   "close": "80122.7"
   },
   "H12": {
-   "nen_cuoi_mo_utc": "2026-10-28 12:00",
-   "t_ms": 1793188800000,
-   "so_nen_moi": 0,
-   "close": "81311.1"
+   "nen_cuoi_mo_utc": "2026-10-29 00:00",
+   "t_ms": 1793232000000,
+   "so_nen_moi": 1,
+   "close": "80122.7"
   },
   "D": {
    "nen_cuoi_mo_utc": "2026-10-28 00:00",
