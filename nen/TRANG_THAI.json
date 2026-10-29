@@ -1,31 +1,31 @@
 {
- "lan_ghi_cuoi_utc": "2026-10-28 23:02",
+ "lan_ghi_cuoi_utc": "2026-10-29 00:02",
  "nguon": "Bybit v5 /v5/market/kline category=linear symbol=BTCUSDT",
  "cot": "t_ms,mo_utc,open,high,low,close,volume",
  "khung": {
   "H1": {
-   "nen_cuoi_mo_utc": "2026-10-28 22:00",
-   "t_ms": 1793224800000,
+   "nen_cuoi_mo_utc": "2026-10-28 23:00",
+   "t_ms": 1793228400000,
    "so_nen_moi": 1,
-   "close": "81245.4"
+   "close": "81311.1"
   },
   "H4": {
-   "nen_cuoi_mo_utc": "2026-10-28 16:00",
-   "t_ms": 1793203200000,
-   "so_nen_moi": 0,
-   "close": "81549.4"
+   "nen_cuoi_mo_utc": "2026-10-28 20:00",
+   "t_ms": 1793217600000,
+   "so_nen_moi": 1,
+   "close": "81311.1"
   },
   "H12": {
-   "nen_cuoi_mo_utc": "2026-10-28 00:00",
-   "t_ms": 1793145600000,
-   "so_nen_moi": 0,
-   "close": "81300"
+   "nen_cuoi_mo_utc": "2026-10-28 12:00",
+   "t_ms": 1793188800000,
+   "so_nen_moi": 1,
+   "close": "81311.1"
   },
   "D": {
-   "nen_cuoi_mo_utc": "2026-10-27 00:00",
-   "t_ms": 1793059200000,
-   "so_nen_moi": 0,
-   "close": "80873.8"
+   "nen_cuoi_mo_utc": "2026-10-28 00:00",
+   "t_ms": 1793145600000,
+   "so_nen_moi": 1,
+   "close": "81311.1"
   },
   "W": {
    "nen_cuoi_mo_utc": "2026-10-19 00:00",
