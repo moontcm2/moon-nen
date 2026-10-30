@@ -1,13 +1,13 @@
 {
- "lan_ghi_cuoi_utc": "2026-10-30 21:02",
+ "lan_ghi_cuoi_utc": "2026-10-30 22:02",
  "nguon": "Bybit v5 /v5/market/kline category=linear symbol=BTCUSDT",
  "cot": "t_ms,mo_utc,open,high,low,close,volume",
  "khung": {
   "H1": {
-   "nen_cuoi_mo_utc": "2026-10-30 20:00",
-   "t_ms": 1793390400000,
+   "nen_cuoi_mo_utc": "2026-10-30 21:00",
+   "t_ms": 1793394000000,
    "so_nen_moi": 1,
-   "close": "76877"
+   "close": "76648"
   },
   "H4": {
    "nen_cuoi_mo_utc": "2026-10-30 16:00",
